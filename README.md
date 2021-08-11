@@ -1,4 +1,4 @@
-A. [Python-Tutorial](https://github.com/alinemati45/Python-Tutorial)
+A. [`Python-Tutorial`](https://github.com/alinemati45/Python-Tutorial)
 
 1.  [Python Tutorial](https://github.com/alinemati45/Python-Tutorial/blob/main/Python%20Tutorial.ipynb)
 
@@ -16,7 +16,7 @@ A. [Python-Tutorial](https://github.com/alinemati45/Python-Tutorial)
 
 
 
-B. `Mysql Code Leetcode` [mysql_code_leetcode](https://github.com/alinemati45/mysql_code_leetcode)
+B.  [`Mysql Code Leetcode`](https://github.com/alinemati45/mysql_code_leetcode)
 
 ## Easy Questions [Source Questions](https://leetcode.com/problemset/database/?difficulty=Easy)
 
